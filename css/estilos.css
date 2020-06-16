@@ -1,7 +1,11 @@
-@font-face {
-  font-family: "SourceSansPro";
-  src: url("fonts/SourceSansPro.ttf");
-}
 body{
-  font-family: "SourceSansPro", sans-serif;
+  font-family: 'Source Sans Pro', sans-serif;
+}
+h1,h2,h3,h4,h5,h6{
+  font-family: 'Fjalla One', sans-serif;
+}
+h1{
+  line-height: 1.5;
+  letter-spacing: -.2px;
+  font-size: 40px;
 }
